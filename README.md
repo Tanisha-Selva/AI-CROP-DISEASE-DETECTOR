@@ -40,3 +40,9 @@ This project contributes to **SDG 2: Zero Hunger** by promoting healthier crops 
 - Mobile-friendly interface
 - More crop disease datasets
 - Integration with real-time AI prediction
+
+![Screenshot](screenshots/CDD1.png)
+![Screenshot](screenshots/CDD2.png)
+![Screenshot](screenshots/CDD3.png)
+![Screenshot](screenshots/CDD4.png)
+![Screenshot](screenshots/CDD5.png)
